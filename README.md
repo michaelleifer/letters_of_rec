@@ -1,6 +1,6 @@
 # letters_of_rec
 Letters of Recommendation
-Here are some Letters of Recommendaiton for your perusal.
+
 Guerilla PR Sample Case Studies:
 http://www.guerillapr.com/gpr_sample_case_studies.pdf
 
