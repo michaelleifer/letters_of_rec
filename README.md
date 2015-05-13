@@ -1,5 +1,5 @@
 # letters_of_rec
-Letters of Recommendation
+LETTERS OF RECOMMENDATION
 
 Guerilla PR Sample Case Studies:
 http://www.guerillapr.com/gpr_sample_case_studies.pdf
